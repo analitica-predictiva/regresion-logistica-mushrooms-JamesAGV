@@ -171,7 +171,7 @@ def pregunta_04():
 
     # Importe confusion_matrix
     #from ____ import ____
-|   from sklearn.metrics import confusion_matrix
+    from sklearn.metrics import confusion_matrix
 
     # Obtenga el pipeline de la pregunta 3.
     pipeline = pregunta_03()
